@@ -6,16 +6,16 @@ You are a data analyst working for a Portuguese bank. The bank has recently run 
 logistic regression and KNN machine learning modelling is used in this project.
 
 ## KNN ML model before SMOTE score
-![Dashboard Preview](knn_before_smote.png)
+![Dashboard Preview](model_results/knn_before_smote.png)
 
 ## KNN ML model after SMOTE score 
-![Dashboard Preview](knn_model_after_smote.png)
+![Dashboard Preview](model_results/knn_model_after_smote.png)
 
 ## Log regression weight class balanced score 
-![Dashboard Preview](log_regression_weightclass_balanced.png)
+![Dashboard Preview](model_results/log_regression_weightclass_balanced.png)
 
 ## Log regression weight class custom score 
-![Dashboard Preview](log_regression_weightclass_custom.png)
+![Dashboard Preview](model_results/log_regression_weightclass_custom.png)
 
 
 ## conclusion
